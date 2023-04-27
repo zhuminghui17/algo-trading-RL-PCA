@@ -1,1 +1,3 @@
-# algo-trading-RL-PCA
+# Deep Reinforcement Learning and PCA Approach in Pairs Trading
+
+In this project, we aim to enhance and optimize the pairs trading strategy using advanced data science techniques. Specifically, we plan to investigate the applicability of Reinforcement Learning (RL) as an agent for determining optimal enter-exit thresholds and simulating decision-making. Furthermore, we will explore the use of Principal Component Analysis (PCA) for constructing an optimal portfolio. The results of this study can potentially have practical implications for traders and investors seeking to enhance their returns while minimizing risks.
